@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-genpark-longevity",
+  "version": "1.0.0",
+  "description": "Personal health longevity calculator estimating biological age acceleration and phenotypic mortality hazard from clinical biomarkers",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["longevity", "biological-age", "phenotypic-age", "biomarkers", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
